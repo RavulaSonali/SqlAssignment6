@@ -1,0 +1,7 @@
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.exe.config
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.exe
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\bin\Debug\ConAppAssignment6.pdb
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.csproj.AssemblyReference.cache
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.csproj.CoreCompileInputs.cache
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.exe
+D:\Mphasis\SQL SERVER\14-12-2023\Assignment\ConAppAssignment6\ConAppAssignment6\obj\Debug\ConAppAssignment6.pdb
